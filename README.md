@@ -1,2 +1,3 @@
 # DevOps
-Cloud Computing
+Cloud Computing.
+This is sample repo created
