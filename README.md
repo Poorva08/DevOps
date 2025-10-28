@@ -1,3 +1,3 @@
 # DevOps
 Cloud Computing.
-This is sample repo created with GitHub
+This is sample repo created with GitHub.
